@@ -96,8 +96,8 @@ class DodgySquare:
     # to reset game settings/data
     def replay_game(self):
         self.enemy_list: list[list[int]] = []
-        self.enemy_speed: float = 1
-        self.enemy_frequency: int = 60
+        self.enemy_speed: float = 3
+        self.enemy_frequency: int = 20
         self.game_over = False
         self.frame_count: int = 0
         self.score: int = 0
