@@ -5,8 +5,7 @@ This project is an adaptaton of Dodgy Square game with changing colors.
 
 The goal of the game is to keep avoiding abstacles by moving mouse.
 
-![image](https://github.com/dawidwojt/Python/assets/99885611/18d7c38c-4ae6-4f34-b3c9-2ff8cedec282)
-
+![image](https://github.com/dawidwojt/Python/assets/99885611/4a40f07f-6b51-4d3b-a9c3-b48b860b72e5)
 
 With each square passed, the score is updated and speed increased. 
 Colors change every 5 points, above 150 points colors start to change few times a second so there it is more difficult to keep the game going.
